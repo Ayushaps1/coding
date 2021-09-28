@@ -1,0 +1,3 @@
+#include<iostream> using namesPace std; int main() {
+  cout<<"hello";
+}

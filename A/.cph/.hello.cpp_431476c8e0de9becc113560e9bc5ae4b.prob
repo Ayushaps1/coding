@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\Users\\laptop\\OneDrive\\Desktop\\Ayush\\A\\hello.cpp","tests":[{"id":1619871262627,"input":"1 2 3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\laptop\\OneDrive\\Desktop\\Ayush\\A\\hello.cpp","group":"local","local":true}
